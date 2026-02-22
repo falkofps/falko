@@ -1,16 +1,4 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="Panico1" tvg-logo="http://cdn.cinepop.com.br/2013/07/panico_2.jpg" group-title="Filmes - Panico", PÂNICO
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/PNC1.mp4
-
-#EXTINF:-1 tvg-name="Panico2" tvg-logo="https://pausadrammatica.files.wordpress.com/2015/09/panico-2.jpg" group-title="Filmes - Panico", PÂNICO 2
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/PNC2.mp4
-
-#EXTINF:-1 tvg-name="Panico3" tvg-logo="http://br.web.img3.acsta.net/medias/nmedia/18/96/27/30/20456789.jpg" group-title="Filmes - Panico", PÂNICO 3
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/PNC3.mp4
-
-#EXTINF:-1 tvg-name="Panico4" tvg-logo="http://4.bp.blogspot.com/-vTwe5_EjStc/TamzeBsW3_I/AAAAAAAAAMY/DTlweuDDDpw/s1600/PosterCinema-Scream4.jpg" group-title="Filmes - Panico", PÂNICO 4
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/PNC4.mp4
-
-#EXTINF:-1 tvg-name="Panico1997" tvg-logo="http://i.imgur.com/CfWlMji.png" group-title="Filmes - Panico", PÂNICO - 1997
-http://vd.ec.cx/vd/dd/RC/RCFServer1/ondemand/PNC1.mp4
+#EXTINF:-1 tvg-name="Panico3" tvg-logo="http://br.web.img3.acsta.net/medias/nmedia/18/96/27/30/20456789.jpg" group-title="Filmes - Panico", PÃ‚NICO 3
+https://cdnst80.tokyvideo.com/videos/737/737234/mp4/7699f7f3839bb2146a4a00933239accc48de1c65cb9d1f6355fa398c84db7116.mp4?secure=jM2H8g6E3wl_w9rU3FDjXw%3D%3D%2C1771882434
