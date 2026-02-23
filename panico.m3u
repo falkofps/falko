@@ -38,25 +38,25 @@ http://dezpila.cloud/live/524151610/237326442/430588
 http://dezpila.cloud/live/524151610/237326442/430589
 #EXTINF:0 tvg-id="Tctouch.br" group-title="✨CANAIS TELECINE",TELECINE TOUCH SD
 http://dezpila.cloud/live/524151610/237326442/430590
-#EXTINF:-1 tvg-type="series" group-title="Suits - Temporada 01", Suits - T01E01
-http://tvmate.icu:8080/series/Mp6918/jLlSb8EGNe/185394.mkv
+#EXTINF:0 tvg-type="series" group-title="Suits - Temporada 01", Suits - T01E01
+http://tvmate.icu:8080/series/Mp6918/jLlSb8EGNe/185394
 
-#EXTINF:-1 tvg-type="series" group-title="Suits - Temporada 01", Suits - T01E02
-http://tvmate.icu:8080/series/Mp6918/jLlSb8EGNe/185395.mkv
+#EXTINF:0 tvg-type="series" group-title="Suits - Temporada 01", Suits - T01E02
+http://tvmate.icu:8080/series/Mp6918/jLlSb8EGNe/185395
 
-#EXTINF:-1 tvg-type="series" group-title="Suits - Temporada 01", Suits - T01E03
-http://tvmate.icu:8080/series/Mp6918/jLlSb8EGNe/185396.mkv
+#EXTINF:0 tvg-type="series" group-title="Suits - Temporada 01", Suits - T01E03
+http://tvmate.icu:8080/series/Mp6918/jLlSb8EGNe/185396
 
-#EXTINF:-1 tvg-type="series" group-title="Suits - Temporada 01", Suits - T01E04
-http://tvmate.icu:8080/series/Mp6918/jLlSb8EGNe/185397.mkv
+#EXTINF:0 tvg-type="series" group-title="Suits - Temporada 01", Suits - T01E04
+http://tvmate.icu:8080/series/Mp6918/jLlSb8EGNe/185397
 
-#EXTINF:-1 tvg-type="series" group-title="Suits - Temporada 01", Suits - T01E05
+#EXTINF:0 tvg-type="series" group-title="Suits - Temporada 01", Suits - T01E05
 http://tvmate.icu:8080/series/Mp6918/jLlSb8EGNe/185398.mkv
 
-#EXTINF:-1 tvg-type="series" group-title="Suits - Temporada 01", Suits - T01E06
+#EXTINF:0 tvg-type="series" group-title="Suits - Temporada 01", Suits - T01E06
 http://tvmate.icu:8080/series/Mp6918/jLlSb8EGNe/185399.mkv
 
-#EXTINF:-1 tvg-type="series" group-title="Suits - Temporada 01", Suits - T01E07
+#EXTINF:0 tvg-type="series" group-title="Suits - Temporada 01", Suits - T01E07
 http://tvmate.icu:8080/series/Mp6918/jLlSb8EGNe/185400.mkv
 
 #EXTINF:-1 tvg-type="series" group-title="Suits - Temporada 01", Suits - T01E08
@@ -391,6 +391,7 @@ http://tvmate.icu:8080/series/Mp6918/jLlSb8EGNe/185510.mkv
 
 #EXTINF:-1 tvg-type="series" group-title="Suits - Temporada 08", Suits - T08E10
 http://tvmate.icu:8080/series/Mp6918/jLlSb8EGNe/185511.mkv
+
 
 
 
